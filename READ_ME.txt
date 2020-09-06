@@ -1,0 +1,4 @@
+- LEFT, UP, RIGHT, DOWN keys for moving snake.
+- double press same move key increase snake's speed. To return to the previous speed, press the opposite key or change direction.
+- SPACE stop/continue game.
+- ESC restart game.
